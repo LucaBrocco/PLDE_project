@@ -1,0 +1,8 @@
+Legend filename:
+N_I0
+
+N: total number of nodes
+I0: initial number of infecteds
+delta: parameter rescaling S-> Sf
+
+then inside each you find a 
