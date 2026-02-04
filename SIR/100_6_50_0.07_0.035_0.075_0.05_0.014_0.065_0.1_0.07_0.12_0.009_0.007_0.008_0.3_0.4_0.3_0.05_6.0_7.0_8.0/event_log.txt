@@ -1,0 +1,7 @@
+Event type: ###
+IR recovery: [34]
+Fear spontaneous S->Sf: []
+Fear removal Sf+R -> S+R or Sf+S-> 2S: [158]
+Fear transmission Sf+S->2S: [1487]
+Disease transmission S+I->2I: [17]
+Disease transmission Sf+I->2I: [11]
