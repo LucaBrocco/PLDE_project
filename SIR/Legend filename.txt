@@ -1,9 +1,10 @@
 Each folder is named following the rule:
 
-N_I0_delta_beta(A)_beta(E)_beta(Y)_rbeta(A)_rbeta(E)_rbeta(Y)_gammaIR(A)_gammaIR(E)_gammaIR(Y)_muf(A)_muf(E)_muf(Y)_mufeardist(A)_mufeardist(E)_mufeardist(Y)_sigmafeardist_alpha(A)_alpha(E)_alpha(Y)
+N_I0_fearthreshold_delta_beta(A)_beta(E)_beta(Y)_rbeta(A)_rbeta(E)_rbeta(Y)_gammaIR(A)_gammaIR(E)_gammaIR(Y)_muf(A)_muf(E)_muf(Y)_mufeardist(A)_mufeardist(E)_mufeardist(Y)_sigmafeardist_alpha(A)_alpha(E)_alpha(Y)
 
 N: total number of nodes
 I0: total number of initial infected nodes
+fearthreshold: fear threshold from S to Sf or vice versa
 beta: transmission rate (per age class)
 rbeta: rescaling factor for transmission rate when feared (per age class)
 gammaIR: recovery rate from I to R state (per age class)
