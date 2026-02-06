@@ -1,0 +1,15 @@
+Event type: ###
+IR recovery: [654]
+Fear spontaneous S->Sf: [2]
+Fear removal Sf+R -> S+R or Sf+S-> 2S: []
+Fear transmission Sf+S->2S: []
+Fear removal boredom Sf -> S: [36]
+Disease transmission S+I->2I: []
+Disease transmission Sf+I->2I: []
+OTHER
+Epidemic size (total fraction): 0.40875
+Rf by age class: [12.66666667 23.8        23.83333333]
+R0 by age class: [ 49.49203412 101.26831597  33.95703452]
+timestep of max I: 7835
+timestep of max feear: 1897
+Final attack rates per class: [0.7538461538461538, 0.2525879917184265, 0.893048128342246]
